@@ -1,7 +1,1 @@
-# Hi there 👋, this is Kai Zhu!
-
-- 😄 I’m a PhD candidate in the College of Pharmaceutical Sciences, Zhejiang University, and a guest student at the Italian Institute of Technology.
-- 🔬 My research interests include machine learning-enhanced molecular simulations, machine learning potentials, and drug design.
-- 👀 You can check out [my latest research on my academic homepage](https://kai-zhu-2001.github.io/).
-- 🏃 Outside research, I enjoy running, boxing, and mixed martial arts.
-- 🥊 My favorite athlete is [Georges St-Pierre (GSP)](https://www.gspofficial.com/).
+Hi, I’m Kai Zhu. I enjoy studying molecular sampling.
